@@ -1,6 +1,7 @@
 # video-maker
 Projeto open source para fazer vídeos automatizados
 
+
 # Pré requisitos
 
 - Git (https://git-scm.com/)
