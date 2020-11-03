@@ -1,6 +1,7 @@
 # video-maker
 Projeto open source para fazer vídeos automatizados
 
+Vídeo Yuri Caetano explicando: https://www.youtube.com/watch?v=sYVnVwOzLTo
 
 # Pré requisitos
 
